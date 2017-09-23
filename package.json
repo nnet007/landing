@@ -1,17 +1,30 @@
 {
-  "name": "c",
+  "name": "landing",
   "version": "1.0.0",
-  "description": "## Перед стартом проекта необходимо: * Убедиться, что установлены node.js и npm. Для этого достаточно написать в терминале > node -v",
-  "main": "node.js",
+  "description": "",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "browser-sync": "^2.18.13",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-cli": "^1.4.0",
-    "gulp-sass": "^3.1.0"
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "node": "^6.11.3",
+    "node.js": "0.0.0",
+    "nodejs": "0.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnet007/landing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nnet007/landing/issues"
+  },
+  "homepage": "https://github.com/nnet007/landing#readme"
 }
