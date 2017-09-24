@@ -29,3 +29,34 @@ c@1.0.0 C:\Users\User\WebstormProjects\landing-page
 * Склонировать данный репозиторий
 > git clone https://github.com/nnet007/landing-page.git
 * Запустить команду npm install в терминале. Данная команда установит все пакеты указанные в файле backege.json, а также все зависимости.
+
+
+## Домашнее задание:
+1. Git
+- git status
+- git add
+- git commit -m "some comment"
+- git push
+- git branch
+- git checkout
+- git marge
+
+2. Gulp
+- Попрактиковатьсься с установкой галпа и его пакетов
+- autoprefixer и sourcemaps Разобраться, что это и установить в проект
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
