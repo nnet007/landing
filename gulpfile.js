@@ -8,9 +8,6 @@ const rename = require('gulp-rename');
 const autoprefixer = require('gulp-autoprefixer');
 const sourcemaps = require('gulp-sourcemaps');
 
-
-
-
 /* ------------ Server ------------ */
 gulp.task('server', function() {
 	browserSync.init({
